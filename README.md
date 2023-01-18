@@ -1,2 +1,2 @@
-# Hi thwre 👋
-I'm Heba
+# Hi there 👋
+I'm Heba Ashraf

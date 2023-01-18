@@ -1,7 +1,9 @@
 # Hi there 👋
-I'm Heba Ashraf
+**I'm Heba Ashraf**
 
 > 🌱 I’m currently learning
-  ->  Embedded system
+
+  **Embedded system**
 > 📫 How to reach me 
-->  HebaAshraf26699@gmail.com
+
+ **HebaAshraf26699@gmail.com**

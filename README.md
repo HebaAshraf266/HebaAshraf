@@ -6,9 +6,9 @@
 >- 🌱 I’m currently learning **Embedded system**
 >- 📫 You can reach me on **HebaAshraf26699@gmail.com**
 
-# Programming Languages 
+### Programming Languages 
 ```
-01- C
-02- Python
-03- C++
+- C
+- Python
+- C++
 ```

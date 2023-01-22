@@ -8,11 +8,13 @@
 
 ### Programming Languages 
 ```
-- C ![]n]https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+- C 
 - Python
 - C++
 ```
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
+
+![image]({https://www.linkedin.com/feed/})

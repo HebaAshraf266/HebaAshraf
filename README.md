@@ -5,6 +5,7 @@
  ## About Me:
 >- 🌱 I’m currently learning **Embedded Systems** in ITI New Adminstrative Capital Branch.
 >- 📫 You can reach me via **HebaAshraf26699@gmail.com**
+> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)&nbsp;
 
 ### Programming Languages 
 ```
@@ -13,5 +14,5 @@
 - C++
 ```
 
-                                     [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)&nbsp;
+
 

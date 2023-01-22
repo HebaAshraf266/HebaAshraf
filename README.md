@@ -13,8 +13,5 @@
 - C++
 ```
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)&nbsp;
 
-
-![image]({https://www.linkedin.com/feed/})
